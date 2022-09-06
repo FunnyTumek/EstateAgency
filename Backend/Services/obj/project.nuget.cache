@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPVkXaNwBpYXxuiTYrz+QcAQ7wf+fofkEceahwpGqRH8OlNU0sXTNZ5tsWn/b9kROI68l/8FEOZ0ezswr6aYpg==",
+  "success": true,
+  "projectFilePath": "C:\\EstateAgency\\Backend\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tkaminski\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\harfbuzzsharp\\2.6.1.9\\harfbuzzsharp.2.6.1.9.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\questpdf\\2022.8.2\\questpdf.2022.8.2.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\skiasharp\\2.80.4\\skiasharp.2.80.4.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\skiasharp.harfbuzz\\2.80.4\\skiasharp.harfbuzz.2.80.4.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\tkaminski\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
